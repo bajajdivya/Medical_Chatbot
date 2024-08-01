@@ -50,6 +50,10 @@ Here are some example images of the chatbot interface with a question asked:
 
 ![Medical Chatbot Example](images/image_1.jpeg)
 
+
+
+![Medical Chatbot Example](images/image_2.jpg)
+
 ## Contact 
 Divya Bajaj - bajajdivya02@gmail.com
 Project Link: https://github.com/bajajdivya/Medical_Chatbot
