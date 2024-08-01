@@ -19,10 +19,20 @@ Our medical chatbot, trained with a comprehensive medical encyclopedia, provides
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
-- Python 3.x
+- Python 3.9
 - pip (Python package installer)
 
 ### Installation
 1. Clone the repo
    ```sh
    git clone https://github.com/bajajdivya/Medical_Chatbot.git
+
+2. Navigate to the project directory
+   ```sh
+   cd Medical_Chatbot
+
+3. Create a virtual environment
+   ```sh
+   python3 -m venv myenv
+   source myenv/bin/activate  # On Windows use `myenv\Scripts\activate`
+
