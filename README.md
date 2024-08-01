@@ -1,6 +1,6 @@
 # Medical Chatbot
 
-![Medical Chatbot Example](images/image_1.png)
+![Medical Chatbot Example](images/image_1.jpeg)
 
 
 ## Problem
